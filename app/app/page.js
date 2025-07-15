@@ -24,7 +24,7 @@ export default function Home() {
           transition={{ duration: 1 }}
           className="text-5xl md:text-6xl font-extrabold text-center z-10 bg-clip-text text-transparent bg-gradient-to-r from-white to-gray-400"
         >
-          Texas Flood Hub
+          Texas Flood Linktree
         </motion.h1>
 
         <motion.p

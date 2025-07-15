@@ -17,11 +17,11 @@ export default function ParticlesBackground() {
       options={{
         fullScreen: { enable: true, zIndex: 0 },
         particles: {
-          number: { value: 100 },
+          number: { value: 80 },
           size: { value: 2 },
-          move: { enable: true, speed: 1 },
-          opacity: { value: 0.3 },
-          links: { enable: true, color: '#ffffff', opacity: 0.1 },
+          move: { enable: true, speed: 1.5 },
+          opacity: { value: 0.6 },
+          links: { enable: true, color: '#1e00ffff', opacity: 0.6 },
         },
         background: { color: '#000000' },
       }}
